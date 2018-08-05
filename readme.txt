@@ -5,3 +5,4 @@ Git tracks changes of files.
 Zhulihao is learning Git.
 
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
