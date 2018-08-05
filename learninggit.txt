@@ -1,0 +1,10 @@
+Encounter 
+1.the first problem:
+can't access the two cangku.
+Then, I redo it,but with no progress. Then I baidu it. It says that maybe the SSH I used is wrong, but I can't believe it.
+Finally, I enter and enter and here comes the sentences below. And I typed 'yes', and succeeded.
+The authenticity of host 'github.com (13.250.177.223)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)?
+Please type 'yes' or 'no': yes
+Warning: Permanently added 'github.com,13.250.177.223' (RSA) to the list of known hosts.
