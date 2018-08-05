@@ -1,5 +1,5 @@
 Git is a distributed version system.
 Git is free software.
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes of files.
 Zhulihao is learning Git.
