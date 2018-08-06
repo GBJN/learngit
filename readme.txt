@@ -7,5 +7,5 @@ Zhulihao is learning Git.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 merge
-
 now I am fixing bug 101.
+add merge
