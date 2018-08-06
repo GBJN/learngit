@@ -10,3 +10,4 @@ Please type 'yes' or 'no': yes
 Warning: Permanently added 'github.com,13.250.177.223' (RSA) to the list of known hosts.
 Oh no! Under the article is the solvement!
 2.I think that I need to record the basic operation and sentences of git.
+3.Press 'Q' in English state can withdraw from git log.
